@@ -1,5 +1,5 @@
-pacman-canvas with nft injection
-================================
+Pacman w/ REX NFT Injection
+===========================
 
 An old classic, re-written in HTML5.
 OG version: https://github.com/platzhersh/pacman-canvas</a
